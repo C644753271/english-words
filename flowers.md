@@ -1,6 +1,6 @@
 - azalea //杜鹃花
 - begonia //秋海棠
-- Brazil //巴西木
+- brazilwood //巴西木
 - cactus //仙人掌
 - camellia //山茶花
 - carnation 麝香石竹(//康乃馨)
@@ -18,7 +18,7 @@
 - jasmine //茉莉
 - lilac //丁香
 - lily //百合
-- mangnolia //木兰花
+- magnolia //木兰花
 - mangnolia //玉兰花
 - rose //月季
 - morning glory 牵牛(//喇叭花)
