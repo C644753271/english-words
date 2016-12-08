@@ -32,3 +32,91 @@
 - longan //桂圆，龙眼
 - loquat //枇杷
 - loguat //枇杷?
+
+
+- lemon //柠檬
+- litchi //荔枝
+- litchi rind //荔枝皮
+- longan //桂圆，龙眼
+- longan pulp //桂圆肉，龙眼肉
+- loguat //枇杷
+- mandarine //柑桔
+- mango //芒果
+- mature //成熟的
+- morello //黑樱桃
+- muskmelon //香瓜，甜瓜
+- navel orange //脐橙
+- nut //坚果
+- nut meat //坚果仁
+- nut shell //坚果壳
+- oleaster //沙枣
+- olive //橄榄
+- orange //柑桔
+- orange peel //柑桔皮
+- papaya //木瓜
+- peach //桃子
+- pear //梨
+- perishable //易腐烂的
+- pineapple //菠萝
+- plum //李子
+- plumcot //李杏
+- pomegranate //石榴
+- pomelo //柚子，代旦
+- red bayberry //杨梅
+- reduced price //处理价
+- ripe //成熟的
+- rotten fruit //烂果
+- seasonable //应时的
+- seedless orange //无核桔
+- special-grade //特级的
+- strawberry //草莓
+- sultana //无核小葡萄
+- superfine //特级的
+- tangerine //柑桔
+- tart //酸的
+- tender //嫩的
+- tinned fruit //罐头水果
+- unripe //未成熟的
+- walnut //胡桃，核桃
+- walnut kernel //核桃仁
+- water chestnut //荸荠
+- watermelon //西瓜
+- almond //杏仁
+- apple //苹果
+- apple core //苹果核
+- apple juice //苹果汁
+- apple skin //苹果皮
+- apricot //杏子
+- apricot flesh //杏肉
+- apricot pit //杏核
+- areca nut //槟榔子
+- banana //香蕉
+- banana skin //香蕉皮
+- bargain price //廉价
+- beechnut //山毛榉坚果
+- Beijing flowering crab //海棠果
+- bitter //苦的
+- bitterness //苦味
+- bitter orange //酸橙
+- blackberry //黑莓
+- canned fruit //罐头水果
+- carambola //杨桃
+- cherry //樱桃
+- cherry pit //樱桃核
+- cherry pulp //樱桃肉
+- chestnut //栗子
+- Chinese chestnut //板栗
+- Chinese date //枣
+- Chinese gooseberry //猕猴桃
+- Chinese walnut //山核桃
+- coconut //椰子
+- coconut milk //椰奶
+- coconut water //椰子汁
+- cold storage //冷藏
+- cold store //冷藏库
+- crisp //脆的
+- cumquat //金桔
+- damson plum //西洋李子
+- Dangshan pear //砀山梨
+- date //枣
+- date pit //枣核
