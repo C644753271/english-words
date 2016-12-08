@@ -31,3 +31,4 @@
 - litchi //荔枝
 - longan //桂圆，龙眼
 - loquat //枇杷
+- loguat //枇杷?
