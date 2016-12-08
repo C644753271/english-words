@@ -7,9 +7,9 @@
 - carambola //杨桃
 - cherry //樱桃
 - chestnut //栗子
-- Chinesechestnut //板栗
-- Chinesegooseberry //猕猴桃
-- Chinesewalnut //山核桃
+- Chinese chestnut //板栗
+- Chinese gooseberry //猕猴桃
+- Chinese walnut //山核桃
 - coconut //椰子
 - cumquat //金桔
 - downypitch //毛桃
@@ -62,9 +62,6 @@
 - coconut //椰子
 - coconut milk //椰奶
 - coconut water //椰子汁
-- cold storage //冷藏
-- cold store //冷藏库
-- crisp //脆的
 - cumquat //金桔
 - damson plum //西洋李子
 - Dangshan pear //砀山梨
@@ -124,3 +121,6 @@
 - tender //嫩的
 - unripe //未成熟的
 - mature //成熟的
+- cold storage //冷藏
+- cold store //冷藏库
+- crisp //脆的
