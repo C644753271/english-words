@@ -30,4 +30,4 @@
 - lemon //柠檬
 - litchi //荔枝
 - longan //桂圆，龙眼
-- loguat //枇杷
+- loquat //枇杷
